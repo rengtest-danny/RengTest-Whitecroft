@@ -1,2 +1,3 @@
 # RengTest
-Server-App
+
+This server application designed to collect test data from multiple test stations acts as the central hub of a distributed testing environment. It continuously receives measurement results, logs, and diagnostic information transmitted from each station, validates and stores the data in a structured database, and ensures data integrity and traceability. The server processes incoming data in real time, updating test statuses such as pass/fail results, performance metrics, and error conditions. Through a web-based interface, it provides live dashboards that display current station activity, system health, and production statistics to authorized web clients. In addition, the application generates detailed reports, historical trend analyses, and exportable summaries, enabling engineers and managers to monitor performance, identify issues quickly, and make data-driven decisions.
